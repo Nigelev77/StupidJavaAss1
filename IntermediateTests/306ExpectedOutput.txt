@@ -1,0 +1,200 @@
+
+Welcome to the Student System. Please enter an option 0 to 3
+0. Exit
+1. Generate a student ID
+2. Capture marks for students
+3. List student IDs and average mark
+Please enter your given name and surname (Enter 0 to return to main menu)
+You entered a given name of Virginia and a surname of Woolf
+Your studID is VW05io
+Welcome to the Student System. Please enter an option 0 to 3
+0. Exit
+1. Generate a student ID
+2. Capture marks for students
+3. List student IDs and average mark
+Please enter the studId to capture their marks (Enter 0 to return to main menu)
+Please enter mark 1 for student VW05io
+Please enter mark 1 for student VW05io
+Please enter mark 2 for student VW05io
+Please enter mark 2 for student VW05io
+Please enter mark 3 for student VW05io
+Student VW05io has a lowest mark of 2
+A highest mark of 99
+Student ***VW05io*** has an average of 36.67
+Would you like to print a bar chart? [y/n]
+Student id statistics: VW05io
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *           *
+   *           *
+Highest     Lowest
+  99           2
+
+Welcome to the Student System. Please enter an option 0 to 3
+0. Exit
+1. Generate a student ID
+2. Capture marks for students
+3. List student IDs and average mark
+Please enter your given name and surname (Enter 0 to return to main menu)
+You entered a given name of Ernest and a surname of Hemingway
+Your studID is EH09en
+Welcome to the Student System. Please enter an option 0 to 3
+0. Exit
+1. Generate a student ID
+2. Capture marks for students
+3. List student IDs and average mark
+Please enter the studId to capture their marks (Enter 0 to return to main menu)
+Please enter mark 1 for student EH09en
+Please enter mark 2 for student EH09en
+Please enter mark 3 for student EH09en
+Student EH09en has a lowest mark of 4
+A highest mark of 12
+Student ***EH09en*** has an average of  7.67
+Would you like to print a bar chart? [y/n]
+Student id statistics: EH09en
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *
+   *           *
+   *           *
+   *           *
+   *           *
+Highest     Lowest
+  12           4
+
+Welcome to the Student System. Please enter an option 0 to 3
+0. Exit
+1. Generate a student ID
+2. Capture marks for students
+3. List student IDs and average mark
+| Student ID   1 is VW05io | Average is 36.67 |
+| Student ID   2 is EH09en | Average is  7.67 |
+
+Welcome to the Student System. Please enter an option 0 to 3
+0. Exit
+1. Generate a student ID
+2. Capture marks for students
+3. List student IDs and average mark
+Please enter the studId to capture their marks (Enter 0 to return to main menu)
+Please enter mark 1 for student VW05io
+Please enter mark 2 for student VW05io
+Please enter mark 3 for student VW05io
+Student VW05io has a lowest mark of 56
+A highest mark of 87
+Student ***VW05io*** has an average of 73.00
+Would you like to print a bar chart? [y/n]
+
+Welcome to the Student System. Please enter an option 0 to 3
+0. Exit
+1. Generate a student ID
+2. Capture marks for students
+3. List student IDs and average mark
+| Student ID   1 is VW05io | Average is 73.00 |
+| Student ID   2 is EH09en | Average is  7.67 |
+
+Welcome to the Student System. Please enter an option 0 to 3
+0. Exit
+1. Generate a student ID
+2. Capture marks for students
+3. List student IDs and average mark
+Goodbye

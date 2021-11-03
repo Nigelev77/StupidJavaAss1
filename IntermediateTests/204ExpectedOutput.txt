@@ -1,0 +1,55 @@
+
+Welcome to the Student System. Please enter an option 0 to 3
+0. Exit
+1. Generate a student ID
+2. Capture marks for students
+3. List student IDs and average mark
+Please enter your given name and surname (Enter 0 to return to main menu)
+You entered a given name of Bill and a surname of Smith
+Your studID is BS05li
+Welcome to the Student System. Please enter an option 0 to 3
+0. Exit
+1. Generate a student ID
+2. Capture marks for students
+3. List student IDs and average mark
+Please enter your given name and surname (Enter 0 to return to main menu)
+You entered a given name of Sam and a surname of Baker
+Your studID is SB05ak
+Welcome to the Student System. Please enter an option 0 to 3
+0. Exit
+1. Generate a student ID
+2. Capture marks for students
+3. List student IDs and average mark
+Please enter the studId to capture their marks (Enter 0 to return to main menu)
+Please enter mark 1 for student BS05li
+Please enter mark 2 for student BS05li
+Please enter mark 3 for student BS05li
+Student BS05li has a lowest mark of 15
+A highest mark of 100
+Student ***BS05li*** has an average of 53.33
+Would you like to print a bar chart? [y/n]
+
+Welcome to the Student System. Please enter an option 0 to 3
+0. Exit
+1. Generate a student ID
+2. Capture marks for students
+3. List student IDs and average mark
+Please enter the studId to capture their marks (Enter 0 to return to main menu)
+Please enter mark 1 for student SB05ak
+Please enter mark 1 for student SB05ak
+Please enter mark 1 for student SB05ak
+Please enter mark 2 for student SB05ak
+Please enter mark 3 for student SB05ak
+Please enter mark 3 for student SB05ak
+Please enter mark 3 for student SB05ak
+Student SB05ak has a lowest mark of 6
+A highest mark of 75
+Student ***SB05ak*** has an average of 40.33
+Would you like to print a bar chart? [y/n]
+
+Welcome to the Student System. Please enter an option 0 to 3
+0. Exit
+1. Generate a student ID
+2. Capture marks for students
+3. List student IDs and average mark
+Goodbye

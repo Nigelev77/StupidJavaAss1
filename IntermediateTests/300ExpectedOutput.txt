@@ -1,0 +1,38 @@
+
+Welcome to the Student System. Please enter an option 0 to 3
+0. Exit
+1. Generate a student ID
+2. Capture marks for students
+3. List student IDs and average mark
+Please enter your given name and surname (Enter 0 to return to main menu)
+You entered a given name of Tim and a surname of Burr
+Your studID is TB04ir
+Welcome to the Student System. Please enter an option 0 to 3
+0. Exit
+1. Generate a student ID
+2. Capture marks for students
+3. List student IDs and average mark
+Please enter the studId to capture their marks (Enter 0 to return to main menu)
+Please enter mark 1 for student TB04ir
+Please enter mark 1 for student TB04ir
+Please enter mark 2 for student TB04ir
+Please enter mark 3 for student TB04ir
+Student TB04ir has a lowest mark of 0
+A highest mark of 5
+Student ***TB04ir*** has an average of  2.00
+Would you like to print a bar chart? [y/n]
+Student id statistics: TB04ir
+   *
+   *
+   *
+   *
+   *
+Highest     Lowest
+   5           0
+
+Welcome to the Student System. Please enter an option 0 to 3
+0. Exit
+1. Generate a student ID
+2. Capture marks for students
+3. List student IDs and average mark
+Goodbye
